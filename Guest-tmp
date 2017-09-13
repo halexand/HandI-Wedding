@@ -1,90 +1,90 @@
-Category	Guests	Number in party	Kids? 	Under 5	Euro/Asia?	Likelihood estimation
-H College	Liz and Lauren	2				0.8
-H College	Gwen and Woo	2				0.95
-H College	Elif and Jason	3	1			0.8
-H College	Mel and Chris	0	0			0
-H Family	Dick and Dory	2				0.5
-H Family	Anne Hawkins	0				0.2
-H Family	Jean and David	2				0.1
-H Family	Matt Finley	0				0.5
-H Family	Ruth	0				0.01
-H Family	Tony	1				0.01
-H Family	Bill 	0				0.01
-H Family	Lucy	1				0.1
-H Family	Becky and Stu	2				0.5
-H Family	Nila Leigh	0				0.5
-H Family	Uncle Mike	2				0.5
-H Family	Sandy	1				1
-H Family	Anna and David	4	2	1		0.7
-H HS	Elizabeth and Joseph	3	1	1		0.7
-H HS	Trish and Carlos	4	2	2		0.5
-H Lab	Sheean	3	1	1		0.7
-H Lab	Monica	2				0.5
-H Lab	Kyle	2				0.7
-H Lab	Sonya	1				0.8
-H Lab	Sam Laney and Krista	2				0.5
-H Lab	Liz Kujawinski	4	2	1		0.5
-H Lab	Titus	4	2			0.8
-H Lab	Lisa	0				0.9
-H Lab	Camille	0				0.9
-H Lab	Louie Wurch	2				0.4
-H Lab	Gwen and Tyler Hennon 	3	1	1		
-I College	Todd and Adrian	2				0.9
-I College	Justin and Tara	2				0.95
-I College	Erin Mader	2				0.95
-I College	Lauren Greif	1				0.95
-I College	Christina Thorngren	1				0.95
-I College	Jordan Aiken	2				0.95
-I College	Jordan Kahn-Tietz	0				0.95
-I College	Nicole Crisosto	1				0.95
-I College	Rachie + Liz	0				0.6
-I College	Erica and Nico	2				0.8
-I Family	Caroline Given	2				1
-I Family	Sylvia and Nigel	2			2	
-I Family	Holly Given	2				1
-I Family	Natalie Given	2				1
-I Family	Jeff Given	1				1
-I Family	Heidi	2				1
-I Family	Luciana	1				1
-I Family	Sebastian and LB	2				1
-I Family	Patxi and Julia	2				1
-I Family	Ronan and Dorina	2				1
-I Family	Mari Blanca Astiz 	1				0.95
-I Family	Yannick Alan de Icaza Astiz + Anaidn+ Thor	3	1	1	3	0.5
-I Family	Francisco Isaac de Icaza Astiz + Alma Delgado + Chenoa	3	1	1		0.7
-I Family	Aitor Landers de Icaza Astiz	1				0.7
-I Family	Iker Loic de Icaza Astiz	2				0.7
-I Family	Aramis de Icaza Astiz	1				0.7
-I Family	Patrick et Claire Le Bras	2			2	0.4
-I Family	Marie Le Bras + Thomas Frenner +2	4	2	2	2	0.4
-I Family	Jean-Baptiste Le Bras + Anna	3	1	1	2	0.4
-I Family	Emmanuelle Le Bras + Lukas	3	1	1	2	0.4
-I Family	Michele Le Bras	0			0	0.1
-I HS	Naemi Handler	1			1	0.3
-I HS	Paul Mezgolits	1			1	0.3
-I HS	Ivan Malakhov	0			0	0.3
-I HS	Albana Bega	1			1	0.3
-I Lab	Nicole Couto	1				
-I Lab	Fiamma Straneo	4	2			
-Woods Hole	Julie vDH	1				0.95
-Woods Hole	Katie Pitz	2				0.95
-Woods Hole	Ellie Bors	1				0.95
-Woods Hole	Alexis Fischer	1				0.95
-Woods Hole	Melissa and Dan A. 	2				0.95
-Woods Hole	Sophie and Nick	2				0.95
-Woods Hole	Emily	1				0.8
-Woods Hole	Winn	1				0.8
-Woods Hole	Sarah	1				0.95
-Woods Hole	Alice and Eddie	2				0.95
-Woods Hole	Alex and Chris	2				0.7
-Woods Hole	Alec Bog	1				0.95
-Woods Hole	Nick and Becca	2				0.95
-Woods Hole	Laura Stevens	2				0.7
-Woods Hole	Emily and Adam	0	0			0
-Woods Hole	Jesse and Karen	2			2	0.4
-Woods Hole	Joern and Emily	2				0.95
-Woods Hole	Devon Clark	1				0.95
-Woods Hole	Deepak and Kate	2				0.6
-Woods Hole	Leah and Chris	2				0.6
-Woods Hole	Helen Feng	1				0.95
-Woods Hole	Nick Hawco	0				0
+Category	Number in party	Kids? 	Under 5	Euro/Asia?	Likelihood estimation
+H College	2				0.8
+H College	2				0.95
+H College	3	1			0.8
+H College	0	0			0
+H Family	2				0.5
+H Family	0				0.2
+H Family	2				0.1
+H Family	0				0.5
+H Family	0				0.01
+H Family	1				0.01
+H Family	0				0.01
+H Family	1				0.1
+H Family	2				0.5
+H Family	0				0.5
+H Family	2				0.5
+H Family	1				1
+H Family	4	2	1		0.7
+H HS	3	1	1		0.7
+H HS	4	2	2		0.5
+H Lab	3	1	1		0.7
+H Lab	2				0.5
+H Lab	2				0.7
+H Lab	1				0.8
+H Lab	2				0.5
+H Lab	4	2	1		0.5
+H Lab	4	2			0.8
+H Lab	0				0.9
+H Lab	0				0.9
+H Lab	2				0.4
+H Lab	3	1	1		
+I College	2				0.9
+I College	2				0.95
+I College	2				0.95
+I College	1				0.95
+I College	1				0.95
+I College	2				0.95
+I College	0				0.95
+I College	1				0.95
+I College	0				0.6
+I College	2				0.8
+I Family	2				1
+I Family	2			2	
+I Family	2				1
+I Family	2				1
+I Family	1				1
+I Family	2				1
+I Family	1				1
+I Family	2				1
+I Family	2				1
+I Family	2				1
+I Family	1				0.95
+I Family	3	1	1	3	0.5
+I Family	3	1	1		0.7
+I Family	1				0.7
+I Family	2				0.7
+I Family	1				0.7
+I Family	2			2	0.4
+I Family	4	2	2	2	0.4
+I Family	3	1	1	2	0.4
+I Family	3	1	1	2	0.4
+I Family	0			0	0.1
+I HS	1			1	0.3
+I HS	1			1	0.3
+I HS	0			0	0.3
+I HS	1			1	0.3
+I Lab	1				
+I Lab	4	2			
+Woods Hole	1				0.95
+Woods Hole	2				0.95
+Woods Hole	1				0.95
+Woods Hole	1				0.95
+Woods Hole	2				0.95
+Woods Hole	2				0.95
+Woods Hole	1				0.8
+Woods Hole	1				0.8
+Woods Hole	1				0.95
+Woods Hole	2				0.95
+Woods Hole	2				0.7
+Woods Hole	1				0.95
+Woods Hole	2				0.95
+Woods Hole	2				0.7
+Woods Hole	0	0			0
+Woods Hole	2			2	0.4
+Woods Hole	2				0.95
+Woods Hole	1				0.95
+Woods Hole	2				0.6
+Woods Hole	2				0.6
+Woods Hole	1				0.95
+Woods Hole	0				0
